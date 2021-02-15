@@ -1,4 +1,4 @@
-# quiz2
+# PERT algorithm simulator by Lerado
 
 ## Project setup
 ```
